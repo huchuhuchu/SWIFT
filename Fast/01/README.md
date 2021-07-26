@@ -3,7 +3,7 @@ Button 클릭 시 콘솔창에 문자 출력<br>
 <img width="30%" src="view1.png"><img width="50%" src="view2.png">
 <hr>
 Button 클릭 시 팝업 <br>
-<img width="30%" src="view3.png"><img width="30%" src="view4.png">
+<img width="30%" src="view3.png"><img width="30%" src="view4.png"><br>
 <hr>
 도전 과제<br>
 <ul>
